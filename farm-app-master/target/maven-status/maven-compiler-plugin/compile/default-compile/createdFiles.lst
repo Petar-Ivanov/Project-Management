@@ -1,0 +1,10 @@
+uni\pu\fmi\repos\IUserProjectRoleRepo.class
+uni\pu\fmi\repos\IUserRepo.class
+uni\pu\fmi\models\UserProjectRole.class
+uni\pu\fmi\models\Task.class
+uni\pu\fmi\repos\ITaskStatusRepo.class
+uni\pu\fmi\models\Project.class
+uni\pu\fmi\repos\IProjectRepo.class
+uni\pu\fmi\models\TaskStatus.class
+uni\pu\fmi\repos\ITaskRepo.class
+uni\pu\fmi\models\User.class
